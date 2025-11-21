@@ -174,7 +174,3 @@ leads to a strong predictive model for automated quality scoring.
 
 The final calibrated RMSE of **3.08** shows that the system captures meaningful semantic relationships between prompts, responses, and evaluation metrics.
 
----
-
-
-Just tell me!
